@@ -12,4 +12,4 @@
 * Stadium
 * Garden
 
-Here's my [My favourite dish : Pizza] (https://github.com/0-lalit/from-kumar/blob/main/MyDish.md)
+Here's my [**My favourite dish**: ***Pizza***] (https://github.com/0-lalit/from-kumar/blob/main/MyDish.md) 
