@@ -24,3 +24,9 @@ Here are four restaurants and food vendors that I personally recommend. Each one
 | Brijwasi | This restaurant has the best paneer dishes | Mathura, India               |
 
 ---
+## Favourite Humorous quotes
+> "I’m not arguing, I’m just explaining why I’m right." — **Anonymous**
+
+>"I intend to live forever. So far, so good." — **Steven Wright**
+
+----
