@@ -31,7 +31,7 @@ Here are four restaurants and food vendors that I personally recommend. Each one
 
 ----
 ## CODE FENCING
-**DESCRIPTION**
+**DESCRIPTION:-**
 In Python, you can merge two or more dictionaries into a single dictionary using the update() method, the unpacking operator (**), or the dict() constructor. These techniques allow you to efficiently combine multiple dictionaries, with later keys overwriting earlier ones in case of duplicates.
 ~~~
 def merge_dicts(*dicts):
